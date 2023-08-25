@@ -24,8 +24,6 @@ A vehicle that has had one or more retail owners in the past is referred to as a
 
 ## Resources:
 
-**Python version :** 3.7
-
 **Packages Used:** pandas, numpy, matplotlib, seaborn, sklearn, pickle.
 
 
