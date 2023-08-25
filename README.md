@@ -25,6 +25,7 @@ A vehicle that has had one or more retail owners in the past is referred to as a
 ## Resources:
 
 **Python version :** 3.7
+
 **Packages Used:** pandas, numpy, matplotlib, seaborn, sklearn, pickle.
 
 
@@ -89,9 +90,5 @@ a) Six different Machine Learning models were tested and evaluated for this proj
 
 ### 4. Testing:
 
-The CatBoost model tested on the test set and showed remarkable results.
 
-- RMSLE score:  0.03488305748337859
-
-- Accuracy score:  91.596
 
