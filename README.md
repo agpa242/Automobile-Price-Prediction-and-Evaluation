@@ -1,9 +1,9 @@
-# Used Cars Price Prediction and Evaluation
+# Automobile Price Prediction and Evaluation
 
 
 ## Intro:
 
-A used car, a pre-owned vehicle, or a secondhand car, is a vehicle that has previously had one or more retail owners. Used cars are sold through a variety of outlets, including franchise and independent car dealers, rental car companies, buy here pay here dealerships, leasing offices, auctions, and private party sales. Some car retailers offer "no-haggle prices," "certified" used cars, and extended service plans or warranties.
+A vehicle that has had one or more retail owners in the past is referred to as a used automobile, pre-owned car, or secondhand car. Franchise and independent vehicle dealers, rental car agencies, buy here pay here dealerships, leasing offices, auctions, and private party sales are just a few of the places where used cars can be purchased. Some auto dealers provide "no-haggle prices," "certified" pre-owned vehicles, and extended service agreements or warranties.
 
 
 
